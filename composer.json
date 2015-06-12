@@ -1,5 +1,5 @@
 {
-    "name": "adcuz/fatsecret-laravel",
+    "name": "braunson/fatsecret-laravel",
     "description": "Unofficial FatSecret API library for Laravel",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Adcuz\\FatsecretLaravel\\": "src/"
+            "Braunson\\FatsecretLaravel\\": "src/"
         }
     },
     "minimum-stability": "dev"
