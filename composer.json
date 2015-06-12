@@ -1,5 +1,5 @@
 {
-    "name": "adcuz/fatsecret-laravel",
+    "name": "braunson/fatsecret-laravel",
     "description": "Unofficial FatSecret API library for Laravel",
     "license": "MIT",
     "authors": [
